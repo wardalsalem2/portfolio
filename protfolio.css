@@ -50,6 +50,7 @@ background-color: #050E14;
 display: flex;
 color: white;
 margin-top: .7rem;
+height: 80vh;
 }
 .container{
     display: flex;
@@ -297,6 +298,7 @@ box-shadow: 0 0 25px #89049f;
                     }
                     .page2{
                         flex-direction: column;
+                        height: 100%;
                     }
                     .image-about img{
                         margin-left: 0;
